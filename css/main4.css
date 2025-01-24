@@ -1,0 +1,51 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+.form-group{
+    width: 400px;
+    margin: 0 auto;
+    padding: 1rem 1.5rem;
+    box-sizing: border-box;
+    background-color: #000000d2;
+}
+label{
+    width: 50%;
+    color: #ffffffca;
+    padding: 0.5rem 1.5rem;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-bottom: 5px;
+    text-align: left;
+}
+input{
+    width: 80%;
+    padding: 0.5rem 1.5rem;
+    background-color: darkgray;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    display: inline block;
+    margin-bottom: 3px;
+}
+.p1{
+    color: white;
+    margin-top: -20px;
+    margin-left: 40px;
+}
+.p2{
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}
+input[type=checkbox]{
+    margin-left: -60px;
+}
+.f{
+    display: inline-block;
+}
+.d{
+    width: 500px;
+    text-align: left;
+    margin-left:-22px;
+}

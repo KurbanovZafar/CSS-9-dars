@@ -1,0 +1,73 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+.form-group{
+    width: 300px;
+    height: 400px;
+    margin: 0 auto;
+    padding: 0.5rem 1.5rem;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    margin-top: 20px;
+}
+.form-groupp{
+    width: 350px;
+    margin-left: 750px;
+    margin-top: -400px;
+    background-image: url(../rasm/x1.jfif);
+    background-repeat: no-repeat;
+    background-size: 400px 500px;
+}
+input{
+    width: 90%;
+    padding: 0.5rem 0.5rem;
+    box-sizing: border-box;
+    border-bottom: 1px solid #cccccc;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.h1{
+    font-size: 30px;
+    margin-left: 10px;
+}
+.sign{
+    width: 40%;
+    background-color: #2ab301;
+    color: white;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.h2{
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    background-color: rgb(168, 166, 166);
+    border-radius: 50%;
+    text-align: center;
+    padding: 5px;
+    margin-left: 725px;
+    margin-top: -230px;
+    position: absolute;
+    z-index: 2;
+}
+.hh1{
+    font-size: 40px;
+    color: white;
+}
+.face{
+    background-color: blue;
+    color: white;
+    margin-top: 40px;
+}
+.twit{
+    background-color: rgb(62, 159, 255);
+    color: white;
+}
+.goog{
+    background-color: red;
+    color: white;
+}
