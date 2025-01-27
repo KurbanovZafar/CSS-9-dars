@@ -1,0 +1,67 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+.form-group{
+    width: 350px;
+    background-color: #3e3e3e;
+    margin: 0 auto;
+    padding: 0.5rem 1.5rem;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+}
+input{
+    width: 40%;
+    background-color: #3e3e3e;
+    padding: 0.5rem 0.5rem;
+    box-sizing: border-box;
+    border: 1px solid white;
+    color: white;
+    border-radius: 5px;
+    display: inline block;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+input[type=email]{
+    width: 87%;
+    background-color: #3e3e3e;
+    color: white;
+    padding: 0.5rem 0.5rem;
+    box-sizing: border-box;
+    border: 1px solid white;
+    border-radius: 5px;
+    display: inline block;
+    margin-bottom: 10px;
+}
+input[type=password]{
+    width: 87%;
+    padding: 0.5rem 0.5rem;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    display: inline block;
+    margin-bottom: 10px;
+}
+.p{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+.sign{
+    background-color: #03bc7f;
+    border: 1px solid #cccccc;
+    border-radius: 0;
+}
+.log{
+    color: gray;
+    border: 1px solid #cccccc;
+    margin-left: -5px;
+    border-radius: 0;
+}
+.get{
+    width: 87%;
+    background-color: #03bc7f;
+    border-radius: 0;
+    border: 1px solid #cccccc;
+}
